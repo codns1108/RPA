@@ -1,0 +1,5 @@
+print("이름 : 김채운")
+print("학번 및 학년 : 202110481, 2학년")
+print("취미 : 게임")
+print("개인 깃허브 링크 : https://github.com/codns1108")
+print("진로 : 프로그래머")
